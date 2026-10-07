@@ -14,4 +14,3 @@ Este repositório foi criado para aprender Git e GitHub.
 
 CS50x
 
-Adiciona README inicial
